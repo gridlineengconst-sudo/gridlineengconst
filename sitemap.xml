@@ -1,39 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://www.gridlineengineeringconst.com/</loc>
-    <lastmod>2026-04-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://www.gridlineengineeringconst.com/#services</loc>
-    <lastmod>2026-04-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://www.gridlineengineeringconst.com/#portfolio</loc>
-    <lastmod>2026-04-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.gridlineengineeringconst.com/#team</loc>
-    <lastmod>2026-04-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.gridlineengineeringconst.com/#contact</loc>
-    <lastmod>2026-04-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
+  <url><loc>https://www.gridlineengineeringconst.com/</loc><lastmod>2026-04-14</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://www.gridlineengineeringconst.com/structural-engineering.html</loc><lastmod>2026-04-16</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.gridlineengineeringconst.com/structural-engineering-fees.html</loc><lastmod>2026-04-16</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.gridlineengineeringconst.com/architectural-design.html</loc><lastmod>2026-04-16</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.gridlineengineeringconst.com/interior-design.html</loc><lastmod>2026-04-16</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://www.gridlineengineeringconst.com/portfolio/badarpurghat-industrial-steel-shed-design.html</loc><lastmod>2026-04-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.gridlineengineeringconst.com/portfolio/udupi-g4-residential-structural-design.html</loc><lastmod>2026-04-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.gridlineengineeringconst.com/portfolio/bangalore-villa-architectural-interior-design.html</loc><lastmod>2026-04-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.gridlineengineeringconst.com/portfolio/udupi-temple-pushakarini-ghat-steps.html</loc><lastmod>2026-04-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.gridlineengineeringconst.com/insights/reduce-steel-tonnage-industrial-sheds.html</loc><lastmod>2026-04-14</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.gridlineengineeringconst.com/insights/assam-residential-zero-subcontractor.html</loc><lastmod>2026-04-14</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.gridlineengineeringconst.com/insights/vastu-minimalist-architecture-udupi.html</loc><lastmod>2026-04-14</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.gridlineengineeringconst.com/insights/zone-v-is13920-ductile-detailing-assam.html</loc><lastmod>2026-04-14</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.gridlineengineeringconst.com/insights/assam-differential-settlement-foundation-design.html</loc><lastmod>2026-04-14</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 </urlset>

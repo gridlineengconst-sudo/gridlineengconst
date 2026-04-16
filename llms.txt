@@ -1,0 +1,33 @@
+# Gridline Engineering & Construct
+
+> Gridline Engineering and Construct is a multidisciplinary engineering consultancy based in India, with co-founders in Guwahati (Assam), Ahmedabad (Gujarat), and Bangalore (Karnataka). The firm delivers IS 456:2000-compliant RC structural design, IS 800:2007 steel structure design, architectural design, and interior design services across India. Analysis is performed using ETABS and AutoCAD. The firm operates fully remotely and serves clients pan-India.
+
+**Founded by:** Biswajyoti Das (Structural Engineer, Guwahati), Deep Gandhi (Structural & Architectural Engineer, Ahmedabad), Abhay K. Kamath (Structural & Interior Engineer, Bangalore)
+
+**Contact:** gridline.eng.const@gmail.com | +91 91138 33798
+
+**Applicable codes:** IS 456:2000, IS 800:2007, IS 1893:2016, IS 13920:2016, IS 1904, IS 4326. International: Eurocode, ACI, AISC for international clients.
+
+## Core Services
+
+- Structural engineering — RC frame design, foundation design, slab and beam design per IS 456:2000
+- Steel structure design — industrial sheds, trusses, columns per IS 800:2007
+- Seismic analysis — IS 1893:2016 Zone V and Zone III compliance, IS 13920 ductile detailing
+- Architectural design — floor plans, elevations, 3D visualisation, building permit drawings
+- Interior design — space planning, material specification, photorealistic renders
+
+## Portfolio Projects
+
+- [G+1 Steel Truss Industrial Shed, Badarpurghat, Assam](https://www.gridlineengineeringconst.com/portfolio/badarpurghat-industrial-steel-shed-design.html): IS 800:2007-compliant G+1 steel truss industrial shed with mezzanine office. 54ft × 72ft, eave height 7.62m, 32.62T total steel, Seismic Zone V. ETABS-analysed. ISHB 300 primary columns, 16,460mm Pratt roof truss in SHS.
+- [B+G+4 Residential Building, Udupi, Karnataka](https://www.gridlineengineeringconst.com/portfolio/udupi-g4-residential-structural-design.html): IS 456:2000-compliant RC frame structural design for a multi-storey residential building. Seismic Zone III, Udupi. Full structural drawings including foundation, columns, beams, slabs, and staircase.
+- [Temple Pushakarini Ghat Steps, Udupi, Karnataka](https://www.gridlineengineeringconst.com/portfolio/udupi-temple-pushakarini-ghat-steps.html): Engineered stepped retaining structure for a temple sacred pond (pushakarini). Stone block masonry, geotextile drainage layer, PVC gabion mesh. Udupi, Karnataka.
+- [The Villa Project, Bangalore, Karnataka](https://www.gridlineengineeringconst.com/portfolio/bangalore-villa-architectural-interior-design.html): Architectural and interior design for a premium contemporary villa. Vastu-compliant, minimalist aesthetic, decorative jaali screens, expansive glazing, curated interior spaces. Bangalore.
+
+## Insights & Technical Articles
+
+- [Preventing Differential Settlement in Assam's High-Water-Table Soils](https://www.gridlineengineeringconst.com/insights/assam-differential-settlement-foundation-design.html): How rigorous SBC assessment and IS 1904 settlement analysis at the Badarpurghat steel shed project prevented differential settlement in Assam's saturated alluvial soils. Covers water table effects, footing design, and consolidation settlement.
+- [Why Most Residential Builds in Assam Bleed Capital](https://www.gridlineengineeringconst.com/insights/assam-residential-zero-subcontractor.html): How a zero-subcontractor model eliminates budget overruns and structural compromise in Seismic Zone V residential construction. Covers IS 13920 ductile detailing enforcement and site supervision.
+- [Reducing Steel Tonnage in Industrial Sheds: Beyond IS 800:2007](https://www.gridlineengineeringconst.com/insights/reduce-steel-tonnage-industrial-sheds.html): How computational automation and ETABS-based structural data extraction eliminate 15–25% steel over-reinforcement in industrial shed design. Demonstrated on Badarpurghat G+1 truss project.
+- [Merging Vastu Shastra with Minimalist Architecture](https://www.gridlineengineeringconst.com/insights/vastu-minimalist-architecture-udupi.html): How structural engineering resolves the perceived conflict between Vastu Shastra directional requirements and modern minimalist residential design. Demonstrated through the Villa Project, Bangalore.
+- [The Zone V Reality Check: IS 13920 Ductile Detailing in Assam](https://www.gridlineengineeringconst.com/insights/zone-v-is13920-ductile-detailing-assam.html): Why cheap contractor bids in Seismic Zone V mean compromised IS 13920 ductile detailing — wrong stirrup spacing, 90-degree hooks, missing cover. What failure looks like and how to prevent it.
+- [The Silent Collapse: Differential Settlement in Assam](https://www.gridlineengineeringconst.com/insights/assam-differential-settlement-foundation-design.html): Deep-dive into how differential foundation settlement develops invisibly in Assam's alluvial soils, and how IS 1904-governed footing design prevents it.
